@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Open+Sans:ital,wght@0,400;0,700;1,300&family=Poppins:ital,wght@0,300;0,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Open+Sans:ital,wght@1,300&family=Poppins:ital,wght@0,300;0,700;1,900&display=swap');
+html {
+  min-width: 300px;
+  max-width: 450px;
+  width: 100%;
+  margin: 0 auto;
+}
+p {
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+
+header {
+  background-image: url(/images/banner.jpg);
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align: center;
+  padding: 48px;
+}
+
+body {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align: center;
+  padding: 20px;
+  font-family: ;
+}
+#azzurrone {
+  color: #25a2c3;
+  line-height: 1;
+}
+h1,
+h2,
+h3,
+h4 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+}
+.azzurro {
+  color: #25a2c3;
+}
+#banner {
+  background-color: black;
+}
+div button {
+  background-color: #f04c2f;
+  padding-top: 3%;
+  padding-left: 13%;
+  padding-right: 13%;
+  padding-bottom: 3%;
+}
+
+button {
+  color: white;
+}
+.immagine {
+  width: 100%;
+}
+
+#dark-orange {
+  background-color: #c73920;
+  color: antiquewhite;
+  padding: 1%;
+  margin-top: 15%;
+  margin-bottom: 15%;
+}
+
+footer {
+  background-color: #25a2c3;
+  color: antiquewhite;
+  padding-top: 7%;
+  padding-bottom: 20%;
+}
+a {
+  color: antiquewhite;
+}
+hr {
+  width: 55%;
+}
